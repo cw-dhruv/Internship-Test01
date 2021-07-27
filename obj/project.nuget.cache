@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVXd0/VhlRpK0OD5OlaJPigJ4lTQ5zxNDE4jdHqQ6wdCoqCqZUzy0oA2RmQ0HbMkybY80LPL8Jd/x+A9S7lOKQ==",
+  "success": true,
+  "projectFilePath": "/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/Internship Test1.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhruvrmaddirala/.nuget/packages/humanizer.core/2.11.10/humanizer.core.2.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

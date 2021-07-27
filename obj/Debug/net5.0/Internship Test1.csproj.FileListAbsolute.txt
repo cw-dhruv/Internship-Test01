@@ -1,0 +1,17 @@
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/Internship Test1.deps.json
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/Internship Test1.runtimeconfig.json
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/Internship Test1.runtimeconfig.dev.json
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/Internship Test1.dll
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/ref/Internship Test1.dll
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/Internship Test1.pdb
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.csproj.AssemblyReference.cache
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.AssemblyInfoInputs.cache
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.AssemblyInfo.cs
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.csproj.CoreCompileInputs.cache
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.dll
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/ref/Internship Test1.dll
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.pdb
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.genruntimeconfig.cache
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/bin/Debug/net5.0/Humanizer.dll
+/Users/dhruvrmaddirala/VSCodeProjects/Internship Test1/obj/Debug/net5.0/Internship Test1.csproj.CopyComplete
